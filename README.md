@@ -13,7 +13,7 @@ and a README.md with appropriate content formatting.
 * [Example Section B](#example_section_b)
 
 <a name="example_section_a"></a>
-# Example Section A
+## Example Section A
 
 This is the text of the first section.  It can be whatever.  Notice in the raw
 markdown how we specify the header linke with the  following code
@@ -34,11 +34,11 @@ contents looks like this
 ```
 
 <a name="example_subection"></a>
-## Example Subsection 
+### Example Subsection 
 
 This is the text of a subsection.  It too can be whatever.
 
 <a name="example_section_b"></a>
-# Example Section B
+## Example Section B
 
 Some more random text.
