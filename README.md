@@ -1,7 +1,7 @@
 # NVIDIA-AI-IOT Template project
 
 <p align="center">
-<img src="#" alt="landing graphic" height="300px"/>
+<img src="landing_graphic.jpg" alt="landing graphic" height="300px"/>
 </p>
 
 This repository demonstrates the minimum requirements of repositories hosted 
